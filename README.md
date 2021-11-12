@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptoJLee
 - 👀 I’m interested in blockchain, smart contracts, DeFi, NFT, etc.
-- 🌱 I’m currently learning the latest blockchain technologies to keep up.
+- 🌱 I’m currently keeping up with latest blockchain technologies.
 - 💞️ I’m looking to collaborate on the big-minds and ongoing disruptors in the blockchain industry.
 - 📫 How to reach me ...
    https://www.linkedin.com/in/joshua-lee-thinking/
